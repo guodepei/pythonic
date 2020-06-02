@@ -1,4 +1,11 @@
+#!/bin/python3
+# pythonic.py - a demo of python3 pythonic programming
 
+'''A one file demo of python3 pythonic programming
+
+For usage, try this:
+$ python pythonic.py
+'''
 
 # 1、变量交换
 a = 1
@@ -26,7 +33,7 @@ with open('README.md') as f:
     print(data)
 
 # 6、列表推导式
-[i * 2 for i in range(10)]
+print([i * 2 for i in range(10)])
 
 # 7、善用装饰器
 import urllib.request as urllib # py3

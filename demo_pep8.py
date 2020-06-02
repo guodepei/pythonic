@@ -4,7 +4,7 @@
 '''A one file demo of python3 program with PEP8
 
 For usage, try this:
-$ python demo.py
+$ python demo_pep8.py
 '''
 
 
